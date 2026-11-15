@@ -661,38 +661,59 @@ The modular game structure allows future expansion through new missions, spacecr
 # 📁 19. REPOSITORY STRUCTURE
 
 ```text
-solaris-space-mission-game/
-│
-├── README.md
+SOLARIS-space-mission-game/
 │
 ├── assets/
-│   ├── solaris-logo.png
-│   ├── cad-model.png
-│   │
-│   └── screenshots/
-│       ├── home.png
-│       ├── component-zones.png
-│       ├── satellite-assembly.png
-│       ├── launch.png
-│       ├── orbit.png
-│       ├── game-1.png
-│       ├── game-2.png
-│       ├── quiz.png
-│       ├── dashboard.png
-│       └── leaderboard.png
+│   ├── Brain Character Teen Titans OG.png
+│   ├── SI-Generated System Architecture...
+│   ├── SOLARIS Mission Flowchart...
+│   └── WhatsApp Image 2026-11-15...
+│
+├── client/
+│   ├── public/
+│   │   └── solaris-emblem.svg
+│   ├── src/
+│   ├── index.html
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   ├── tsconfig.json
+│   └── vite.config.ts
 │
 ├── docs/
-│   ├── architecture.png
-│   ├── technical-design.png
-│   ├── workflow.png
-│   └── project-documentation.md
+│   ├── AUDIT.md
+│   └── DEMO_SCRIPT.md
 │
-├── src/
-│   └── [application source code]
+├── examples/
+│   ├── student-cubesat-excellent.json
+│   ├── student-cubesat-failing.json
+│   └── student-cubesat-passing.json
 │
-├── requirements.txt
+├── server/
+│   ├── src/
+│   │   └── index.ts
+│   ├── package.json
+│   └── tsconfig.json
+│
+├── shared/
+│   ├── data/
+│   ├── src/
+│   ├── package.json
+│   └── tsconfig.json
+│
+├── tests/
+│
 ├── .gitignore
-└── LICENSE
+├── .npmrc
+├── DATA_SOURCES.md
+├── DEPLOYMENT.md
+├── Dockerfile
+├── LICENSE
+├── METHODOLOGY.md
+├── README.md
+├── package-lock.json
+├── package.json
+└── vercel.json
 ```
 
 *Adapt this suggested structure to your actual repository and source files.*
