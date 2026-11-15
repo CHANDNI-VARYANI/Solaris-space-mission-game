@@ -883,7 +883,7 @@ Get a quick glimpse of **SOLARIS: A Space Dream** through our 30-second project 
 
 This video captures the vision behind our interactive 3D space mission design and simulation game, showcasing how we aim to transform passive screen time into meaningful exploration, hands-on learning and scientific curiosity.
 
-<video src="assets/SOLARIS-Overview.mp4" width="100%" controls></video>
+<video src="assests/SOLARIS VIDEO.mp4" width="100%" controls></video>
 
 ---
 
