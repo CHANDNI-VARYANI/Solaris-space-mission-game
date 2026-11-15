@@ -847,7 +847,7 @@ Watch our complete project presentation to understand the problem, solution, arc
 
 <div align="center">
 
-<img src="assests/WhatsApp Image 2026-11-15 at 11.49.27.jpeg" width="90"/>
+<img src="assests/Brain Character Teen Titans OG Logo.png" width="90"/>
 
 
 
