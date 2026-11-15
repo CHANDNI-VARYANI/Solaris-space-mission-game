@@ -474,11 +474,6 @@ SOLARIS combines 3D modelling and interactive game development to create its spa
 
 Blender supports the creation and preparation of 3D visual assets and models used in the project.
 
-### CAD / 3D Model
-
-![SOLARIS CAD Model](assets/cad-model.png)
-
-*Insert your actual CAD model or Blender render.*
 
 ### Technical Documentation
 
@@ -497,7 +492,6 @@ The technical design documentation covers:
 | Asset | Location |
 |---|---|
 | SOLARIS Logo | `assets/solaris-logo.png` |
-| CAD Model | `assets/cad-model.png` |
 | Architecture Diagram | `docs/architecture.png` |
 | Technical Design | `docs/technical-design.png` |
 | Workflow Diagram | `docs/workflow.png` |
@@ -568,41 +562,56 @@ Referred to as an educational resource for interactive space-learning experience
 *These resources are research references unless explicitly identified as directly integrated into the application.*
 
 ---
-
 # 🛠️ 16. TECHNOLOGY STACK
 
-SOLARIS combines Python-based game development, 3D modelling, version control and deployment technologies.
+SOLARIS combines modern web technologies, interactive game design, 3D visual assets and AI-assisted development to create an engaging space-mission learning experience.
 
 ### Core Development Stack
 
 | Category | Technology | Purpose |
 |---|---|---|
-| Programming Language | Python | Primary programming language |
-| 3D Game Engine | Panda3D | Interactive 3D game development |
-| 3D Modelling | Blender | 3D modelling and visual asset creation |
+| Programming Language | TypeScript | Frontend, backend and shared application logic |
+| Frontend Build Tool | Vite | Frontend development and build management |
+| Styling | Tailwind CSS | Responsive user interface styling |
+| CSS Processing | PostCSS | CSS transformation and processing |
+| Backend Runtime | Node.js | Server-side application execution |
+| Shared Architecture | TypeScript | Reusable code and shared modules |
+| Sample Mission Data | JSON | Example CubeSat mission configurations |
 | Version Control | Git | Source code version management |
-| Repository Hosting | GitHub | Code hosting and collaboration |
-| Deployment Platform | Vercel | Planned deployment platform |
+| Repository Hosting | GitHub | Code hosting and team collaboration |
+| Containerization | Docker | Application container configuration |
+| Deployment Configuration | Vercel | Deployment configuration |
+
+### Development and Design Tools
+
+| Tool | Purpose |
+|---|---|
+| Blender | 3D modelling and visual asset creation |
+| GitHub | Repository management and collaboration |
+| Vercel | Deployment platform and hosting configuration |
 
 ### AI-Assisted Development Tools
 
 | Tool | Purpose |
 |---|---|
-| ChatGPT | Ideation, research and documentation |
+| ChatGPT | Ideation, technical guidance and documentation |
 | Claude | Development assistance |
-| Google Gemini | Technical research |
-| GitHub Copilot | Code completion and assistance |
-| Nano Banana | AI-assisted visual generation |
+| Google Gemini | Research and technical assistance |
+| GitHub Copilot | Code completion and development assistance |
+| Nano Banana | AI-assisted visual asset generation |
 
 ### Official Technology Resources
 
-- [Python](https://www.python.org/)
-- [Panda3D](https://www.panda3d.org/)
-- [Blender](https://www.blender.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vite.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [PostCSS](https://postcss.org/)
+- [Node.js](https://nodejs.org/)
+- [Docker](https://www.docker.com/)
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [Vercel](https://vercel.com/)
-
+- [Blender](https://www.blender.org/)
 ---
 
 # 📈 17. IMPACT AND SUSTAINABILITY
