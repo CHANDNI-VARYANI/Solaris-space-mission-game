@@ -458,9 +458,8 @@ flowchart TD
 
 ### Architecture Diagram
 
-![SOLARIS System Architecture](docs/architecture.png)
+<img src="assests/architecture .jpeg" width="1000"/>
 
-*Insert the actual system architecture diagram here.*
 
 ---
 
