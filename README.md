@@ -829,7 +829,7 @@ Our ambition is to make space exploration an experience that anyone can enjoy, u
 
  ## 🎥 Live App
 
-Experience **BeltCare** in action through our interactive App prototype.
+Experience **SOLARIS** in action through our interactive App prototype.
 
 🔗 **Prototype:** *()*
 
@@ -838,9 +838,9 @@ Experience **BeltCare** in action through our interactive App prototype.
 
 ## 🎬 Project Pitch
 
-Watch our complete project presentation to understand the problem, solution, architecture, and vision behind **BeltCare**.
+Watch our complete project presentation to understand the problem, solution, architecture, and vision behind **SOLARIS**.
 
-▶️ **BELTCARE ONE SHOT:** **
+▶️ **SOLARIS DEMONSTRATION:** **
 
 ---
 
