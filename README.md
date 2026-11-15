@@ -881,7 +881,7 @@ Explore the SOLARIS gaming experience through the screenshots below, showcasing 
 
 Watch our complete project presentation to understand the problem, solution, architecture, and vision behind **SOLARIS**.
 
-▶️ **SOLARIS DEMONSTRATION:** **
+▶️ **SOLARIS DEMONSTRATION:** *(https://drive.google.com/file/d/1_cZYDZ-twAT5eQY465tLsDhnHNNLqO5c/view?usp=drivesdk)*
 
 ---
 
