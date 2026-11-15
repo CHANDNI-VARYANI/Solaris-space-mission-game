@@ -862,7 +862,7 @@ Experience **SOLARIS** in action through our 3D game. .
 
 Explore the SOLARIS gaming experience through the screenshots below, showcasing its interactive space-mission environment, gameplay interfaces, satellite design activities, mini-games, and learning experience. Each screen reflects our vision of transforming passive screen time into meaningful exploration, creativity, and problem-solving — **From Screen Time to Space Time. Less Scrolling. More Exploring.**
 
-<img src="assests/Brain Character Teen Titans OG Logo.png" width="90"/>
+<img src="assests/game 1.png" width="1000"/>
 <img src="assests/Brain Character Teen Titans OG Logo.png" width="90"/>
 
 ---
