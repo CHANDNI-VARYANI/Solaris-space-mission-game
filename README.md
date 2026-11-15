@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="assets/solaris-logo.png" alt="SOLARIS Logo" width="150"/>
+  <img src="assests/Solaris Mission Design Logo.png" alt="SOLARIS Logo" width="150"/>
 
   # 🚀 SOLARIS: A SPACE DREAM
 
