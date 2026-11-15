@@ -461,7 +461,7 @@ flowchart TD
 
 ### Architecture Diagram
 
-<img src="assests/architecture .jpeg" width="1000"/>
+<img src="assests/SI-Generated System Architecture Workflow.png" width="1000"/>
 
 
 ---
