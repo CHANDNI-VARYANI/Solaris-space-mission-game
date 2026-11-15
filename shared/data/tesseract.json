@@ -1,0 +1,44 @@
+{
+  "missions": [
+    { "id": "magnetic-probe", "name": "Magnetic Field Probe", "tagline": "Listen to Earth's magnetic pulse.", "frameClass": "1U", "maxMassKg": 2, "budgetK": 150, "payloadId": "magnetometer", "radioRank": 1, "pointingRank": 1, "science": 55, "observationQuotaMinutes": 20 },
+    { "id": "crop-imager", "name": "Crop Health Imager", "tagline": "Catch stress before fields turn brown.", "frameClass": "3U", "maxMassKg": 4, "budgetK": 380, "payloadId": "multispectral", "radioRank": 2, "pointingRank": 2, "science": 78, "observationQuotaMinutes": 26 },
+    { "id": "heat-mapper", "name": "City Heat Mapper", "tagline": "Find urban heat islands after dark.", "frameClass": "6U", "maxMassKg": 12, "budgetK": 520, "payloadId": "thermal-imager", "radioRank": 2, "pointingRank": 2, "science": 86, "observationQuotaMinutes": 24 },
+    { "id": "atmosphere-spectrometer", "name": "Atmosphere Spectrometer", "tagline": "Read the chemistry written in sunlight.", "frameClass": "6U", "maxMassKg": 12, "budgetK": 700, "payloadId": "spectrometer", "radioRank": 3, "pointingRank": 3, "science": 95, "observationQuotaMinutes": 30 }
+  ],
+  "parts": [
+    { "id": "frame-1u", "name": "1U frame", "category": "Frame", "massKg": 0.2, "costK": 20, "class": "1U", "color": "#e8a24d", "shape": "frame" },
+    { "id": "frame-3u", "name": "3U frame", "category": "Frame", "massKg": 0.5, "costK": 40, "class": "3U", "color": "#e8a24d", "shape": "frame" },
+    { "id": "frame-6u", "name": "6U frame", "category": "Frame", "massKg": 1.1, "costK": 80, "class": "6U", "color": "#e8a24d", "shape": "frame" },
+    { "id": "solar-body", "name": "Body solar cells", "category": "Solar", "massKg": 0.2, "costK": 15, "powerW": 3, "color": "#58b7e5", "shape": "solar" },
+    { "id": "solar-deployable", "name": "Deployable wings", "category": "Solar", "massKg": 0.5, "costK": 40, "powerW": 9, "color": "#58b7e5", "shape": "solar" },
+    { "id": "solar-large", "name": "Large solar array", "category": "Solar", "massKg": 0.9, "costK": 100, "powerW": 24, "color": "#58b7e5", "shape": "solar" },
+    { "id": "battery-10", "name": "10 Wh battery", "category": "Battery", "massKg": 0.15, "costK": 10, "energyWh": 10, "color": "#34d17a", "shape": "battery" },
+    { "id": "battery-30", "name": "30 Wh battery", "category": "Battery", "massKg": 0.4, "costK": 30, "energyWh": 30, "color": "#34d17a", "shape": "battery" },
+    { "id": "battery-60", "name": "60 Wh battery", "category": "Battery", "massKg": 0.8, "costK": 60, "energyWh": 60, "color": "#34d17a", "shape": "battery" },
+    { "id": "computer-basic", "name": "Basic flight computer", "category": "Computer", "massKg": 0.1, "costK": 10, "loadW": 0.4, "color": "#f4f1ea", "shape": "computer" },
+    { "id": "computer-radhard", "name": "Rad-hard computer", "category": "Computer", "massKg": 0.2, "costK": 45, "loadW": 1.2, "color": "#f4f1ea", "shape": "computer" },
+    { "id": "radio-uhf", "name": "UHF radio", "category": "Radio", "massKg": 0.1, "costK": 10, "loadW": 1, "rank": 1, "contactMbps": 0.15, "color": "#ffd23f", "shape": "radio" },
+    { "id": "radio-sband", "name": "S-band radio", "category": "Radio", "massKg": 0.2, "costK": 35, "loadW": 3, "rank": 2, "contactMbps": 2, "color": "#ffd23f", "shape": "radio" },
+    { "id": "radio-xband", "name": "X-band radio", "category": "Radio", "massKg": 0.4, "costK": 80, "loadW": 8, "rank": 3, "contactMbps": 12, "color": "#ffd23f", "shape": "radio" },
+    { "id": "pointing-mag", "name": "Magnetorquers", "category": "Pointing", "massKg": 0.1, "costK": 8, "loadW": 0.5, "rank": 1, "color": "#ff6b6b", "shape": "pointing" },
+    { "id": "pointing-wheels", "name": "Reaction wheels", "category": "Pointing", "massKg": 0.4, "costK": 50, "loadW": 2.5, "rank": 2, "color": "#ff6b6b", "shape": "pointing" },
+    { "id": "pointing-tracker", "name": "Wheels + star tracker", "category": "Pointing", "massKg": 0.7, "costK": 110, "loadW": 4, "rank": 3, "color": "#ff6b6b", "shape": "pointing" },
+    { "id": "magnetometer", "name": "Fluxgate magnetometer", "category": "Payload", "massKg": 0.3, "costK": 25, "loadW": 1, "rank": 1, "dataMbPerOrbit": 6, "color": "#b36bff", "shape": "payload", "science": 55 },
+    { "id": "multispectral", "name": "Multispectral camera", "category": "Payload", "massKg": 1.2, "costK": 90, "loadW": 5, "rank": 2, "dataMbPerOrbit": 80, "color": "#b36bff", "shape": "payload", "science": 78 },
+    { "id": "thermal-imager", "name": "Thermal imager", "category": "Payload", "massKg": 2, "costK": 120, "loadW": 8, "rank": 2, "dataMbPerOrbit": 60, "color": "#b36bff", "shape": "payload", "science": 86 },
+    { "id": "spectrometer", "name": "Atmosphere spectrometer", "category": "Payload", "massKg": 3.5, "costK": 150, "loadW": 8, "rank": 3, "dataMbPerOrbit": 120, "color": "#b36bff", "shape": "payload", "science": 95 }
+  ],
+  "launchVehicles": [
+    { "id": "electron", "name": "Electron", "capacityKg": 300, "costUsdM": 7.5, "stages": [{ "isp": 311, "massRatio": 8.5 }, { "isp": 343, "massRatio": 4.1 }] },
+    { "id": "sslv", "name": "SSLV", "capacityKg": 500, "costUsdM": 4.5, "stages": [{ "isp": 285, "massRatio": 9 }, { "isp": 320, "massRatio": 4.2 }] },
+    { "id": "pslv", "name": "PSLV", "capacityKg": 1750, "costUsdM": 25, "stages": [{ "isp": 280, "massRatio": 9 }, { "isp": 320, "massRatio": 4.2 }] },
+    { "id": "gslv", "name": "GSLV Mk II", "capacityKg": 5000, "costUsdM": 47, "stages": [{ "isp": 290, "massRatio": 9.5 }, { "isp": 440, "massRatio": 5.2 }] },
+    { "id": "lvm3", "name": "LVM3", "capacityKg": 8000, "costUsdM": 63, "stages": [{ "isp": 275, "massRatio": 10 }, { "isp": 440, "massRatio": 5.4 }] },
+    { "id": "falcon-9", "name": "Falcon 9", "capacityKg": 22000, "costUsdM": 70, "stages": [{ "isp": 282, "massRatio": 12 }, { "isp": 348, "massRatio": 4.6 }] }
+  ],
+  "groundStations": [
+    { "id": "goldstone", "name": "Goldstone", "region": "California", "color": "#ffd23f" },
+    { "id": "madrid", "name": "Madrid", "region": "Spain", "color": "#4fd1ff" },
+    { "id": "canberra", "name": "Canberra", "region": "Australia", "color": "#34d17a" }
+  ]
+}

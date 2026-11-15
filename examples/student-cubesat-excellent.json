@@ -1,0 +1,11 @@
+{
+  "scenario": "student-cubesat",
+  "launchVehicle": "pslv-xl",
+  "orbit": "sso",
+  "instruments": ["camera", "lidar"],
+  "massKg": 58,
+  "powerW": 62,
+  "budgetUsdM": 22,
+  "result": "excellent",
+  "notes": "Strong power margin, good revisit, and robust downlink strategy."
+}

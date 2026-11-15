@@ -1,0 +1,24 @@
+[
+  {
+    "id": "student-cubesat",
+    "name": "Student CubeSat",
+    "mission": "Urban heat and crop health over India",
+    "objective": "Earth observation",
+    "difficulty": "Explorer",
+    "budgetM": 25,
+    "deadlineMonths": 12,
+    "approximate": true,
+    "source": "Educational mission design scenarios"
+  },
+  {
+    "id": "space-weather",
+    "name": "Space Weather Sentinel",
+    "mission": "Monitor solar wind and geomagnetic events",
+    "objective": "Space weather",
+    "difficulty": "Engineer",
+    "budgetM": 60,
+    "deadlineMonths": 18,
+    "approximate": true,
+    "source": "NASA and ISRO mission analogues"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "electron",
+    "name": "Rocket Lab Electron",
+    "orbit": ["LEO"],
+    "leoKg": 300,
+    "gtoKg": 0,
+    "ssoKg": 300,
+    "costUsdM": 7.5,
+    "reliability": 0.96,
+    "notes": "Small satellite dedicated launch.",
+    "approximate": true,
+    "source": "Rocket Lab public launch guides"
+  },
+  {
+    "id": "sslv",
+    "name": "ISRO SSLV",
+    "orbit": ["LEO"],
+    "leoKg": 500,
+    "gtoKg": 0,
+    "ssoKg": 500,
+    "costUsdM": 4.5,
+    "reliability": 0.95,
+    "notes": "Small payload launcher.",
+    "approximate": true,
+    "source": "ISRO SSLV user guide"
+  },
+  {
+    "id": "pslv-xl",
+    "name": "ISRO PSLV-XL",
+    "orbit": ["LEO", "SSO", "GTO"],
+    "leoKg": 3800,
+    "gtoKg": 1400,
+    "ssoKg": 1750,
+    "costUsdM": 25,
+    "reliability": 0.98,
+    "notes": "Workhorse Indian launcher.",
+    "approximate": true,
+    "source": "ISRO launch manuals"
+  },
+  {
+    "id": "falcon-9",
+    "name": "SpaceX Falcon 9",
+    "orbit": ["LEO", "SSO", "GTO"],
+    "leoKg": 22000,
+    "gtoKg": 5500,
+    "ssoKg": 15000,
+    "costUsdM": 70,
+    "reliability": 0.99,
+    "notes": "Reused and expendable variants.",
+    "approximate": true,
+    "source": "SpaceX payload user guides"
+  }
+]

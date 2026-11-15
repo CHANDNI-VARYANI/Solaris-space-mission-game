@@ -1,0 +1,11 @@
+{
+  "scenario": "student-cubesat",
+  "launchVehicle": "electron",
+  "orbit": "leo-500",
+  "instruments": ["camera", "hyperspectral"],
+  "massKg": 72,
+  "powerW": 88,
+  "budgetUsdM": 26,
+  "result": "fail",
+  "notes": "Power and data margins are insufficient for a 12-month mission."
+}

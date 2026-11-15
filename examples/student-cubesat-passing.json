@@ -1,0 +1,11 @@
+{
+  "scenario": "student-cubesat",
+  "launchVehicle": "pslv-xl",
+  "orbit": "leo-500",
+  "instruments": ["camera"],
+  "massKg": 32,
+  "powerW": 42,
+  "budgetUsdM": 18,
+  "result": "pass",
+  "notes": "Balanced science payload and conservative power margin."
+}

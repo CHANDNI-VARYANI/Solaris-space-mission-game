@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <defs>
+    <radialGradient id="sun" cx="0" cy="0" r="1" gradientTransform="matrix(0 70 -70 0 120 120)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8D9"/>
+      <stop offset=".28" stop-color="#FFD65A"/>
+      <stop offset="1" stop-color="#FFB629" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit" x1="27" x2="214" y1="36" y2="211" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8E7B3"/>
+      <stop offset=".52" stop-color="#7FD9E8"/>
+      <stop offset="1" stop-color="#D7B978"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="67" stroke="url(#orbit)" stroke-width="2.4" opacity=".8"/>
+  <ellipse cx="120" cy="120" rx="99" ry="34" stroke="#D7C79C" stroke-width="2.5" transform="rotate(-22 120 120)" opacity=".9"/>
+  <ellipse cx="120" cy="120" rx="98" ry="34" stroke="#8FD5E0" stroke-width="2.2" transform="rotate(50 120 120)" opacity=".75"/>
+  <ellipse cx="120" cy="120" rx="97" ry="34" stroke="#F1E2BE" stroke-width="1.7" transform="rotate(111 120 120)" opacity=".68"/>
+  <circle cx="120" cy="120" r="51" fill="url(#sun)" opacity=".72"/>
+  <path d="m120 72 8 31 24-19-13 28 34 8-34 7 15 29-27-19-7 34-8-34-27 19 15-29-34-7 34-8-13-28 25 19 8-31Z" fill="#F5D681" stroke="#FFF3CE" stroke-width="1.5"/>
+  <circle cx="120" cy="120" r="12" fill="#FFFBEF"/>
+  <circle cx="42" cy="82" r="8" fill="#172B43" stroke="#EBD9A9" stroke-width="2"/>
+  <circle cx="195" cy="73" r="10" fill="#172B43" stroke="#D5C28F" stroke-width="2"/>
+  <circle cx="180" cy="177" r="8" fill="#172B43" stroke="#93D9E5" stroke-width="2"/>
+  <circle cx="67" cy="190" r="6" fill="#172B43" stroke="#EBD9A9" stroke-width="2"/>
+  <path d="m137 83 21-23 5 2-9 31-10 8-7-18Z" fill="#EAF3E7" stroke="#172B43" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m143 94-9 14 10-6 7 4-2-12" fill="#FFD65A"/>
+  <circle cx="151" cy="77" r="3" fill="#172B43"/>
+</svg>

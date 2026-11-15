@@ -1,0 +1,30 @@
+[
+  {
+    "id": "camera",
+    "name": "CubeSat multispectral camera",
+    "massKg": 2,
+    "powerW": 10,
+    "dataRateMbps": 50,
+    "dutyCycle": 0.4,
+    "costUsdM": 0.8,
+    "trl": 8,
+    "orbitSuitability": ["LEO", "SSO"],
+    "description": "Visible and near-IR imaging for land and atmosphere monitoring.",
+    "approximate": true,
+    "source": "Small spacecraft instrument surveys"
+  },
+  {
+    "id": "magnetometer",
+    "name": "Fluxgate magnetometer",
+    "massKg": 1,
+    "powerW": 2,
+    "dataRateMbps": 1,
+    "dutyCycle": 0.9,
+    "costUsdM": 1.2,
+    "trl": 8,
+    "orbitSuitability": ["LEO", "SSO", "Moon"],
+    "description": "Measures magnetic field variations and space weather conditions.",
+    "approximate": true,
+    "source": "Space physics instrument references"
+  }
+]

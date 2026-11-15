@@ -1,0 +1,41 @@
+[
+  {
+    "id": "leo-500",
+    "name": "LEO",
+    "altitudeKm": 500,
+    "periodMinutes": 94,
+    "eclipseFraction": 0.35,
+    "radiation": "Low to moderate",
+    "drag": "High drag / short lifetime",
+    "deltaVFromLeoKmS": 2.5,
+    "notes": "Most common Earth orbit for small satellites.",
+    "approximate": true,
+    "source": "Orbital mechanics references"
+  },
+  {
+    "id": "sso",
+    "name": "Sun-synchronous orbit",
+    "altitudeKm": 700,
+    "periodMinutes": 98,
+    "eclipseFraction": 0.18,
+    "radiation": "Moderate",
+    "drag": "Moderate drag",
+    "deltaVFromLeoKmS": 3.0,
+    "notes": "Near-constant solar geometry.",
+    "approximate": true,
+    "source": "Orbital mechanics references"
+  },
+  {
+    "id": "geo",
+    "name": "GEO",
+    "altitudeKm": 35786,
+    "periodMinutes": 1436,
+    "eclipseFraction": 0.5,
+    "radiation": "High",
+    "drag": "Negligible",
+    "deltaVFromLeoKmS": 3.9,
+    "notes": "Geostationary orbit.",
+    "approximate": true,
+    "source": "Orbital mechanics references"
+  }
+]
