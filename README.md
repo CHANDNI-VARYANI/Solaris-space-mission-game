@@ -879,9 +879,11 @@ Explore the SOLARIS gaming experience through the screenshots below, showcasing 
 
 ## 🎬 Project Pitch
 
-Watch our complete project presentation to understand the problem, solution, architecture, and vision behind **SOLARIS**.
+Get a quick glimpse of **SOLARIS: A Space Dream** through our 30-second project overview!
 
-▶️ **SOLARIS DEMONSTRATION:** *(https://drive.google.com/file/d/1_cZYDZ-twAT5eQY465tLsDhnHNNLqO5c/view?usp=drivesdk)*
+This video captures the vision behind our interactive 3D space mission design and simulation game, showcasing how we aim to transform passive screen time into meaningful exploration, hands-on learning and scientific curiosity.
+
+<video src="assets/SOLARIS-Overview.mp4" width="100%" controls></video>
 
 ---
 
