@@ -409,6 +409,9 @@ flowchart TD
     R --> E
 ```
 
+<img src="assests/SOLARIS Mission Flowchart on White.png" width="1000"/>
+
+
 ---
 
 # 🏗️ 11. SYSTEM ARCHITECTURE
