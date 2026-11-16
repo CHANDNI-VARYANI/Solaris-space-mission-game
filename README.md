@@ -878,6 +878,17 @@ This video captures the vision behind our interactive 3D space mission design an
 
 ▶️ **[Watch the SOLARIS Overview Video](https://drive.google.com/file/d/1_cZYDZ-twAT5eQY465tLsDhnHNNLqO5c/view?usp=drivesdk)**
 
+---
+
+## 🎮 SOLARIS Gameplay Preview
+
+Experience SOLARIS in action! Watch how players interact with the 3D environment and assemble their spacecraft.
+
+<p align="center">
+  <img src="assets/WhatsApp%20GIF%202026-11-16%20at%2009.14.58.gif" 
+       alt="SOLARIS Gameplay Preview" 
+       width="100%">
+</p>
 
 ---
 
