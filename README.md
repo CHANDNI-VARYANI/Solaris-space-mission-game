@@ -885,7 +885,7 @@ This video captures the vision behind our interactive 3D space mission design an
 Experience SOLARIS in action! Watch how players interact with the 3D environment and assemble their spacecraft.
 
 <p align="center">
-  <img src="assets/WhatsApp%20GIF%202026-11-16%20at%2009.14.58.gif" 
+  <img src="assests/WhatsApp GIF 2026-11-16 at 09.14.58.gif" 
        alt="SOLARIS Gameplay Preview" 
        width="100%">
 </p>
