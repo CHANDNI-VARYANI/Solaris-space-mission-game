@@ -859,11 +859,13 @@ Our ambition is to make space exploration an experience that anyone can enjoy, u
 
 ---
 
- ## 🎥 Live Gamified Experience 
+ ## 🎮 Live Gamified Experience
 
-Experience **SOLARIS** in action through our 3D game. .
+Experience **SOLARIS** in action through our interactive 3D space mission game!
 
-🔗 **Prototype:** *(https://solaris-space-mission-game.vercel.app/)*
+Explore the live prototype and experience spacecraft assembly, mission challenges, space exploration and interactive gameplay.
+
+▶️ **[Explore the SOLARIS Live Prototype](https://solaris-space-mission-game.vercel.app/)**
 
 ---
 
