@@ -869,15 +869,6 @@ Explore the live prototype and experience spacecraft assembly, mission challenge
 
 ---
 
-## 🎮 SOLARIS Game Overview 
-
-Explore the SOLARIS gaming experience through the screenshots below, showcasing its interactive space-mission environment, gameplay interfaces, satellite design activities, mini-games, and learning experience. Each screen reflects our vision of transforming passive screen time into meaningful exploration, creativity, and problem-solving — **From Screen Time to Space Time. Less Scrolling. More Exploring.**
-
-<img src="assests/game 1.png" width="1000"/>
-<img src="assests/Game 2.png" width="1000"/>
-
----
-
 
 ## 🎬 Project Pitch
 
@@ -886,6 +877,17 @@ Get a quick glimpse of **SOLARIS: A Space Dream** through our project overview!
 This video captures the vision behind our interactive 3D space mission design and simulation game, showcasing how we aim to transform passive screen time into meaningful exploration, hands-on learning and scientific curiosity.
 
 ▶️ **[Watch the SOLARIS Overview Video](https://drive.google.com/file/d/1_cZYDZ-twAT5eQY465tLsDhnHNNLqO5c/view?usp=drivesdk)**
+
+
+---
+
+## 🎮 SOLARIS Game Overview 
+
+Explore the SOLARIS gaming experience through the screenshots below, showcasing its interactive space-mission environment, gameplay interfaces, satellite design activities, mini-games, and learning experience. Each screen reflects our vision of transforming passive screen time into meaningful exploration, creativity, and problem-solving — **From Screen Time to Space Time. Less Scrolling. More Exploring.**
+
+<img src="assests/game 1.png" width="1000"/>
+<img src="assests/Game 2.png" width="1000"/>
+
 
 ---
 
